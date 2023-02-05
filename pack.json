@@ -1,0 +1,33 @@
+{ 
+    "class": {
+        "path": "character",
+        "defaultType": "script",
+        "files": [
+            {
+                "key": "Unit",
+                "url": "Unit.js"
+            }
+        ]
+    },
+    "atlas": {
+        "path": "sprite",
+        "defaultType": "atlas",
+        "files": [
+            {
+                "key": "Unit",
+                "atlasURL": "sprites.json",
+                "textureURL": "sprites.png"
+            }
+        ]
+    },
+    "anims": {
+        "path": "sprite",
+        "defaultType": "json",
+        "files": [
+            {
+                "key": "Unit",
+                "url": "anims.json"
+            }
+        ]
+    }
+}
