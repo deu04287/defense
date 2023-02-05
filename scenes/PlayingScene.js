@@ -69,7 +69,6 @@ export default class PlayingScene extends Phaser.Scene {
         // console.log(this.game.loop.actualFps);
         // console.log(this.time.now);
 
-        // console.log(this.monsters);
         // timeArea.setText("time:"+Math.round(time));
         timeArea.setText("money:"+money);
 
